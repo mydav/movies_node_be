@@ -1,0 +1,18 @@
+[
+  {
+    "movieId": "tt0120737",
+    "username": "test321",
+    "text": "totottoo",
+    "rate": 2,
+    "_id": "1576852864468",
+    "createdAt": "2019-12-20T14:41:04.468Z"
+  },
+  {
+    "movieId": "tt0167260",
+    "username": "Test123",
+    "text": "nice",
+    "rate": 3,
+    "_id": "1576854376390",
+    "createdAt": "2019-12-20T15:06:16.390Z"
+  }
+]
